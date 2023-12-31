@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Poudel</h1>
+<h2 align="center">💡 I love startups,</h2>
 <h3 align="center">The magic you're looking for is in the work you're avoiding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakster00&label=Profile%20views&color=0e75b6&style=flat" alt="freakster00" /> </p>
@@ -6,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakster00" alt="freakster00" /></a> </p>
 
 - 🔭 I’m currently lead backend developer at [Ekagajpatra](https://www.ekagajpatra.com/)
+
+- 🥇 I’m working as a CTO at [https://www.hyperce.io/](https://www.hyperce.io/)
 
 - 🌱 I’m currently learning **Pytorch**
 
