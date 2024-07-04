@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Poudel</h1>
 <h2 align="center">💡 I love startups,</h2>
-<h3 align="center">The magic you're looking for is in the work you're avoiding.</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakster00&label=Profile%20views&color=0e75b6&style=flat" alt="freakster00" /> </p>
